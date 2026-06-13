@@ -1,0 +1,10 @@
+# 1. Ignore everything
+*
+
+# 2. But do not ignore directories (allows Git to enter them)
+!*/
+
+# 3. Do not ignore these filetypes 
+!*.txt
+!*.md
+!.gitignore
