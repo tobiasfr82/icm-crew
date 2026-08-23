@@ -1,0 +1,1 @@
+2026-07-16: Not sure why this file is here. it does not seems to be part of the clief notes foundation better prompting. safe to be deleted?
